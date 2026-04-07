@@ -16,10 +16,10 @@ loop:
 
     sub r0, r0         
     addi 7
-    addi 4              ; r0 = 11 (tam + 1)     
+    addi 3              ; r0 = 10 (tam)     
     sub r0, r1          ; r0 = r0 - i
 
-    brzr r0, r2         ; se i > tam, pula para o fim do loop
+    brzr r0, r2         ; se i = tam, pula para o fim do loop
 
     sub r0, r0          
     sub r2, r2

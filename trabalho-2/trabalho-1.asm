@@ -64,13 +64,13 @@ loop:
     add r2, r0          ; carrega endereço do inicio do loop em r2
     sub r0, r0          
     brzr r0, r2         ; salto incondicional para o inicio do loop
-    ebreak              ; fim 
+    ebreak              ; fim
 
 R: 
-.bits8 0 0 0 0 0 0 0 0 0 0   
+.bits8 0 0 0 0 0 0 0 0 0 0
 
 A: 
-.bits8 0 2 4 6 8 10 12 14 16 18   
+.bits8 0 2 4 6 8 10 12 14 16 18
 
 B: 
-.bits8 1 3 5 7 9 11 13 15 17 19   
+.bits8 1 3 5 7 9 11 13 15 17 19 

@@ -1,10 +1,10 @@
 # Arquitetura e Organização de Computadores (CI1212)
 
-Trabalhos práticos da disciplina **Arquitetura e Organização de Computadores** da UFPR, semestre **2026/1**.
+Trabalhos práticos desenvolvidos para a disciplina de **Arquitetura e Organização de Computadores** da UFPR.
 
-Os enunciados completos, com a descrição das ISAs, estão em [`enunciados/`](enunciados/).
+Os enunciados completos estão em [`enunciados/`](enunciados/).
 
-Os relatórios da implementação dos trabalhos 2 e 3 estão nas suas respectivas pastas.
+Os relatórios das implementações dos trabalhos 2 e 3 estão nas suas respectivas pastas.
 
 - **Trabalho 1**: Soma de vetores em assembly, arquitetura [REDUX-V](https://egg.gboncoffee.dev.br/docs/en/#redux-v), trabalho individual
 - **Trabalho 2**: Processador monociclo, arquitetura [REDUX-V](https://egg.gboncoffee.dev.br/docs/en/#redux-v), trabalho individual
